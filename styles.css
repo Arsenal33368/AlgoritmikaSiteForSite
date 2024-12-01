@@ -20,3 +20,11 @@ nav{
   backgrond-color: gray;
   border-radius: 10%;
 }
+
+header{
+  background-color: #008A56;
+}
+
+footer{
+  background-color: #0D714B;
+}

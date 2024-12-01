@@ -4,7 +4,6 @@ body{
 
 h1{
   text-align: center;
-  text-decoration: line-through;
   color: navy;
   backgound-color: orange;
   border-radius: 20px;
@@ -12,4 +11,12 @@ h1{
 
 h2{
   text-align: center;
+}
+
+nav{
+  display: flex;
+  flex-warp: warp;
+  text-decoration: none;
+  backgrond-color: gray;
+  border-radius: 10%;
 }

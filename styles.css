@@ -1,30 +1,97 @@
-body{
-  font-family: Arial, sans-serif;
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
 }
 
-h1{
-  text-align: center;
-  color: navy;
-  backgound-color: orange;
-  border-radius: 20px;
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
 }
 
-h2{
-  text-align: center;
+nav ul {
+    list-style: none;
+    padding: 0;
 }
 
-nav{
-  display: flex;
-  flex-warp: warp;
-  text-decoration: none;
-  backgrond-color: gray;
-  border-radius: 10%;
+nav ul li {
+    display: inline;
+    margin: 0 15px;
 }
 
-header{
-  background-color: #008A56;
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
 }
 
-footer{
-  background-color: #0D714B;
+section {
+    padding: 20px;
+    margin: 10px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.portfolio-item {
+    margin-bottom: 20px;
+}
+
+blockquote {
+    border-left: 4px solid #333;
+    padding-left: 20px;
+    margin: 20px 0;
+    font-style: italic;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin: 10px 0 5px;
+}
+
+form input, form textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    margin-top: 10px;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }

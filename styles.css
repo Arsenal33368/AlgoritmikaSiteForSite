@@ -39,8 +39,8 @@ footer {
 }
 
 img {
-     max-width: 80%; 
-     height: auto;
+     width: 40%; 
+     height: 40%;
      margin: 20px 0;
      border: 3px solid #b22222;
      border-radius: 10px;

@@ -1,25 +1,22 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: #f0f8ff; 
-    color: #333;
 }
 
 header {
-    background: #2e8b57; 
-    color: #fff;
+    background: blue; 
+    color: white;
     padding: 10px 0;
     text-align: center;
+    marguin: 0;
+    padding: 0;
 }
 
 nav a {
-    color: #fff;
+    color: white;
     padding: 10px;
     text-decoration: none;
-}
-
-nav a {
-    background: #4caf50; 
+    background: lightblue; 
 }
 
 main {
@@ -28,14 +25,16 @@ main {
 }
 
 h1 {
-    color: #b22222; 
+    color: darkblue; 
 }
 
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #2e8b57; 
-    color: #fff;
+    background: blue; 
+    color: white;
+    marguin: 0;
+    padding: 0;
 }
 
 img {

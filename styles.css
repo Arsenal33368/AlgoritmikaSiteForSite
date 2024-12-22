@@ -3,7 +3,6 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to bottom, #00aaff, #ffffff);
 }
 
 header {
@@ -74,5 +73,5 @@ img {
 
 nav:hover {
     color: white;
-    background-color: PaleTurquoise;
+    background: PaleTurquoise;
 }

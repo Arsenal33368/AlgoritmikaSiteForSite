@@ -64,8 +64,8 @@ main {
     display: flex;
     flex-direction: column; 
     align-items: left; 
-    background: rgb(211,251,255);
-    background: radial-gradient(circle, rgba(211,251,255,1) 0%, rgba(78,215,255,1) 9%, rgba(210,245,255,1) 18%, rgba(102,216,246,1) 27%, rgba(189,242,255,1) 36%, rgba(127,226,249,1) 45%, rgba(180,221,231,1) 54%, rgba(105,212,237,1) 63%, rgba(182,225,235,1) 72%, rgba(71,214,245,1) 81%, rgba(196,228,235,1) 90%, rgba(0,212,255,1) 99%);;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(208,244,255,1) 9%, rgba(254,254,254,1) 18%, rgba(210,246,255,1) 27%, rgba(250,250,250,1) 36%, rgba(204,234,241,1) 45%, rgba(255,255,255,1) 54%, rgba(207,239,246,1) 63%, rgba(255,255,255,1) 72%, rgba(213,247,255,1) 81%, rgba(255,255,255,1) 90%, rgba(209,247,255,1) 99%); 
 }
 
 img {

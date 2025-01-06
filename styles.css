@@ -79,6 +79,7 @@ nav a:hover {
 
 div p{
     width: 50%;
+    float: left;
 }
 
 img{
